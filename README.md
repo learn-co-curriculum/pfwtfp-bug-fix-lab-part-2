@@ -1,15 +1,14 @@
-# Title
+# Bug Fix Lab - The Return
 
 ## Objectives
 
--SWBAT 1
--SWBAT 2
+- Interpret existing functions to derive purpose
 
-#### Introduction
+## Introduction
 
-#### SWBAT 1
+- Revisit original bug fix lab concept and review questions posed - how did we fix the bugs?
 
-#### SWBAT 2
+### Interpret existing functions to derive purpose
 
 ## Conclusion
 
